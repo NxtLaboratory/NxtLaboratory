@@ -1,10 +1,10 @@
 <div align="center">
 <p align='center' style='min-height: 100px;'>
- <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40BFF7&width=435&lines=console.log(%22Nxtspace%22)" alt="Typing SVG" /> 
+ <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=40BFF7&width=435&lines=console.log(%22NxtLab%22)" alt="Typing SVG" /> 
 </p>
 
 <p align="center">
-  <img src="https://socialify.git.ci/Nxtspace/Nxtspace/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="Nxtspace" width="700" height="300" />
+  <img src="https://socialify.git.ci/NxtLaboratory/NxtLaboratory/image?font=Source%20Code%20Pro&forks=1&issues=1&language=1&name=1&owner=1&pattern=Plus&pulls=1&stargazers=1&theme=Dark" alt="NxtLab" width="700" height="300" />
 </p>
 
 | **Category**      | **Technologies** |
@@ -20,12 +20,12 @@
 
 
 <h3>Where to find me</h3>
-<p><a href="https://github.com/Nxtspace" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<p><a href="https://github.com/NxtLaboratory" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 </p>
 
 ---
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nxtspace&theme=github-dark-dimmed&custom_title=Nxtspace%20Activity%20Graph&hide_border=true)](https://github.com/Nxtspace)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NxtLaboratory&theme=github-dark-dimmed&custom_title=NxtLaboratory%20Activity%20Graph&hide_border=true)](https://github.com/NxtLaboratory)
 
-<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/Nxtspace/Nxtspace?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/Nxtspace/Nxtspace?style=flat-square&labelColor=343b41"/></p>
+<p align="center"><img src="https://github.com/thmsgbrt/thmsgbrt/workflows/README%20build/badge.svg" /> <img alt="Stars" src="https://img.shields.io/github/stars/NxtLaboratory/NxtLaboratory?style=flat-square&labelColor=343b41"/> <img alt="Forks" src="https://img.shields.io/github/forks/NxtLaboratory/NxtLaboratory?style=flat-square&labelColor=343b41"/></p>
 </div>
